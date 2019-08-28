@@ -21,7 +21,7 @@ namespace myMicroservice.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value test";
+            return "value";
         }
 
         // POST api/values
