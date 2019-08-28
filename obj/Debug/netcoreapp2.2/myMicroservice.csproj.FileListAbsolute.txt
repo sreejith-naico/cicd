@@ -1,0 +1,14 @@
+C:\LABZ\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.deps.json
+C:\LABZ\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.json
+C:\LABZ\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.runtimeconfig.dev.json
+C:\LABZ\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.dll
+C:\LABZ\myMicroservice\bin\Debug\netcoreapp2.2\myMicroservice.pdb
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csprojAssemblyReference.cache
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.csproj.CoreCompileInputs.cache
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cache
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorAssemblyInfo.cs
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfoInputs.cache
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.AssemblyInfo.cs
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.RazorTargetAssemblyInfo.cache
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.dll
+C:\LABZ\myMicroservice\obj\Debug\netcoreapp2.2\myMicroservice.pdb
